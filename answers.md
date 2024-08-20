@@ -5,7 +5,7 @@
 **Name:**_________________________
 
 
-Place all written answers from `recitation-01.md` here for easier grading.
+Place all written answers from `lab-01.md` here for easier grading.
 
 - **4)** Describe the worst case input value of `key` for `linear_search`? for `binary_search`? 
 
