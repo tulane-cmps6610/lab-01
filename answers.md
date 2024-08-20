@@ -1,4 +1,4 @@
-# CMPS 2200 Recitation 01
+# CMPS 6610 Recitation 01
 ## Answers
 
 **Name:**_________________________
